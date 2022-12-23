@@ -3,7 +3,6 @@ Examples of Ethereum Longtail MEV Strategies
 This file strictly focuses on strategies related to earning an incentive provided by a protocol in exchange for performing upkeep or other tasks (e.g. compounding)\
 \
 These strategies are less contested then short tail strategies and have lower bribes, however there is a limit on what you're able to earn.
-\
 
 Convex Finance Earmarking
 -------------------------
